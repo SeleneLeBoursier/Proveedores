@@ -1,0 +1,5 @@
+F:\Proveedor2016\Proveedor2016\obj\Debug\ResolveAssemblyReference.cache
+F:\Proveedor2016\Proveedor2016\obj\Debug\WindowsApplication1.frmProveedor.resources
+F:\Proveedor2016\Proveedor2016\obj\Debug\WindowsApplication1.lstProveedor.resources
+F:\Proveedor2016\Proveedor2016\obj\Debug\WindowsApplication1.Resources.resources
+F:\Proveedor2016\Proveedor2016\obj\Debug\Proveedor2016.vbproj.GenerateResource.Cache
